@@ -182,4 +182,4 @@ readGenesisData fp = do
   pure (genesisData, genesisHash)
 
 mainnetProtocolMagicId :: ProtocolMagicId
-mainnetProtocolMagicId = ProtocolMagicId 764824073
+mainnetProtocolMagicId = ProtocolMagicId 3327
